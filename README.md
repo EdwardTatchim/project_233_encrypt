@@ -3,7 +3,7 @@
 # A Comprehensive Study of Sensitive Diagnostic Attributes in MIMIC-IV
 
 ## Edward Tatchim, Sanjiv M. Narayan, Rohan Krishnamurty
-## Datasci 233, Fall 2024, Session 1; v0.2, 11/24/2024
+## Datasci 233, Fall 2024
 
 ### Project Goals
 To study privacy guarantees of patients in MIMIC-IV, who presented to the Emergency room of Harvard Teaching Hospitals from 2008 to 2019. While this data is rigorously de-identified it includes ICD10 diagnostic codes, which may be considered sensitive attributes. The goal of this project is to quantify the risk of attribute or membership disclosure for various selected ICD10 codes using k-anonymity, L-diversity and t-closeness at baseline. We then intend to study how well the risk of disclosure and information gain could be mitigated by a series of generalization and data suppression techniques. We use rigorously de-identified real-world medical data in the form of MIMIC-IV released through MIT and Beth Israel Hospital, and will study ICD10 codes including but not limited to alcohol and substance abuse, in parallel with the DATASCI 233 coursework. This work is in preparation for submission to the Scientific sessions of the Heart Rhythm Society 2025.
