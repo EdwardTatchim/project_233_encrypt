@@ -1,5 +1,4 @@
-# 233_Encrypt
-Session 1, Lab Project.  
+# 233_Encrypt 
 # Privacy Protections in Anonymized Medical Records: 
 # A Comprehensive Study of Sensitive Diagnostic Attributes in MIMIC-IV
 
